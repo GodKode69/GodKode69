@@ -1,4 +1,6 @@
-<h1 align="center">Raghav / GodKode</h1>
+<p align="center">
+  <img src="assets/godkode.gif" alt="GODKODE" width="800" />
+</p>
 <p align="center">
   Building web apps, backend systems, automation tools, custom interfaces, and weird useful software.
 </p>
