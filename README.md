@@ -5,28 +5,28 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/YOUR_SERVER">
-    <img src="assets/discord.webp" alt="Discord" height="30" />
+  <a href="https://discord.gg/users/1150339860725514320">
+    <img src="assets/discord.webp" alt="Discord" height="30" border="0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/adhuraghav">
-    <img src="assets/instagram.webp" alt="Instagram" height="30" />
+    <img src="assets/instagram.webp" alt="Instagram" height="30" border="0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://godkode.xyz">
-    <img src="assets/favicon.webp" alt="Portfolio" height="30" />
+    <img src="assets/favicon.webp" alt="Portfolio" height="30" border="0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://open.spotify.com/user/31qqz4epfmpqxwzmmibutb5j47be">
-    <img src="assets/spotify.webp" alt="Spotify" height="30" />
+    <img src="assets/spotify.webp" alt="Spotify" height="30" border="0" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:godkode@godkode.xyz">
-    <img src="assets/email.webp" alt="Email" height="30" />
+    <img src="assets/email.webp" alt="Email" height="30" border="0" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/raghav-bhati-a22349365/">
-    <img src="assets/linkedin.webp" alt="LinkedIn" height="30" />
+    <img src="assets/linkedin.webp" alt="LinkedIn" height="30" border="0" />
   </a>
 </p>
 
