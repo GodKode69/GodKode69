@@ -1,12 +1,7 @@
 <p align="center">
-  <img src="assets/godkode.gif" alt="GODKODE" width="800" />
-</p>
-<p align="center">
-  Building web apps, backend systems, automation tools, custom interfaces, and weird useful software.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=godkode69&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <a href="#readme">
+    <img src="assets/godkode.gif" alt="GODKODE" width="800" />
+  </a>
 </p>
 
 <p align="center">
@@ -17,7 +12,19 @@
 
 ---
 
-## About
+<br>
+
+<p align="center">
+  <img height="165" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=godkode69&show_icons=true&commits_year=2026&theme=dracula&hide_border=true" alt="Stats" />
+  <img height="165" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godkode69&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true" alt="Languages" />
+  <img height="165" style="margin: 0 10px;" src="https://streak-stats.demolab.com/?user=godkode69&theme=kanagawa-paper&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/about.gif" alt="About" width="700" />
+</p>
 
 I am a developer focused on building software that feels sharp, useful, and reliable.
 
@@ -35,7 +42,9 @@ I spend a lot of time working with Linux, Node.js, Python, APIs, and system work
 
 ---
 
-## Current Focus
+<p align="center">
+  <img src="assets/focus.gif" alt="Current Focus" width="700" />
+</p>
 
 - Building tools people actually provide values
 - Improving backend and automation workflows
@@ -44,7 +53,9 @@ I spend a lot of time working with Linux, Node.js, Python, APIs, and system work
 
 ---
 
-## Working With
+<p align="center">
+  <img src="assets/working.gif" alt="Working With" width="700" />
+</p>
 
 ```txt
 Languages    :: JavaScript, Python, SQL, TypeScript, C, Go
@@ -57,7 +68,9 @@ Specialized  :: Automation, Computer Vision, OpenCV, MediaPipe
 
 ---
 
-## Projects
+<p align="center">
+  <img src="assets/projects.gif" alt="Projects" width="700" />
+</p>
 
 A few things I have built or worked on:
 - **Fabric**: an all-in-one Discord.js bot with unique utility-focused features
@@ -72,7 +85,9 @@ More at: **[godkode.xyz](https://godkode.xyz)**
 
 ---
 
-## Philosophy
+<p align="center">
+  <img src="assets/philosophy.gif" alt="Philosophy" width="700" />
+</p>
 
 > Build fast. Debug harder. Refine until it feels inevitable.
 
@@ -84,7 +99,9 @@ A few things I optimize for:
 
 ---
 
-## Contact
+<p align="center">
+  <img src="assets/contact.gif" alt="Contact" width="700" />
+</p>
 
 If you want to build something interesting, automate something painful, or collaborate on a useful system:
 
@@ -92,3 +109,4 @@ If you want to build something interesting, automate something painful, or colla
 - Email: [godkode@godkode.xyz](mailto:godkode@godkode.xyz)
 - LinkedIn: [Raghav Bhati](https://www.linkedin.com/in/raghav-bhati-a22349365/)
 
+---
