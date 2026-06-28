@@ -4,34 +4,31 @@
   </a>
 </p>
 
-<details>
-<summary></summary>
 <p align="center">
-  <a href="https://discord.gg/users/1150339860725514320">
+  <a href="https://discord.gg/users/1150339860725514320" style="text-decoration:none; border:none;">
     <img src="assets/discord.webp" alt="Discord" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/adhuraghav">
+  <a href="https://instagram.com/adhuraghav" style="text-decoration:none; border:none;">
     <img src="assets/instagram.webp" alt="Instagram" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://godkode.xyz">
+  <a href="https://godkode.xyz" style="text-decoration:none; border:none;">
     <img src="assets/favicon.webp" alt="Portfolio" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/31qqz4epfmpqxwzmmibutb5j47be">
+  <a href="https://open.spotify.com/user/31qqz4epfmpqxwzmmibutb5j47be" style="text-decoration:none; border:none;">
     <img src="assets/spotify.webp" alt="Spotify" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:godkode@godkode.xyz">
+  <a href="mailto:godkode@godkode.xyz" style="text-decoration:none; border:none;">
     <img src="assets/email.webp" alt="Email" height="30" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raghav-bhati-a22349365/">
+  <a href="https://www.linkedin.com/in/raghav-bhati-a22349365/" style="text-decoration:none; border:none;">
     <img src="assets/linkedin.webp" alt="LinkedIn" height="30" />
   </a>
 </p>
-</details>
 
 ---
 
