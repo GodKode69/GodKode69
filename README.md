@@ -1,16 +1,16 @@
 <p align="center">
   <a href="#readme">
-    <img src="assets/godkode.gif" alt="GODKODE" width="800" />
+    <img src="assets/godkode.webp" alt="GODKODE" width="800" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://discord.gg/YOUR_SERVER">
-    <img src="assets/discord.png" alt="Discord" height="30" />
+    <img src="assets/discord.webp" alt="Discord" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/adhuraghav">
-    <img src="assets/instagram.png" alt="Instagram" height="30" />
+    <img src="assets/instagram.webp" alt="Instagram" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="https://godkode.xyz">
