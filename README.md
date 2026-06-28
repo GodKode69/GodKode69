@@ -14,11 +14,11 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <img height="130" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=godkode69&show_icons=true&commits_year=2026&theme=dracula&hide_border=true" alt="Stats" />
   <img height="130" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godkode69&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true" alt="Languages" />
   <img height="130" style="margin: 0 10px;" src="https://streak-stats.demolab.com/?user=godkode69&theme=kanagawa-paper&hide_border=true" alt="Streak" />
-</p>
+</div>
 
 ---
 
@@ -26,19 +26,9 @@
   <img src="assets/about.gif" alt="About" width="700" />
 </p>
 
-I am a developer focused on building software that feels sharp, useful, and reliable.
-
-I mostly work around:
-- Web Applications
-- Desktop Applications
-- Backend Systems
-- Automation and Integrations
-- Custom Interfaces
-- Utility Tools
-
-<br>
-
-I spend a lot of time working with Linux, Node.js, Python, APIs, and system workflows.
+<p align="left">
+  <img src="assets/about_content.png" alt="About Content" width="500" />
+</p>
 
 ---
 
@@ -46,10 +36,9 @@ I spend a lot of time working with Linux, Node.js, Python, APIs, and system work
   <img src="assets/focus.gif" alt="Current Focus" width="700" />
 </p>
 
-- Building tools people actually provide values
-- Improving backend and automation workflows
-- Shipping cleaner interfaces with stronger interaction design
-- Getting deeper into systems, infrastructure, and practical product engineering
+<p align="left">
+  <img src="assets/focus_content.png" alt="Focus Content" width="500" />
+</p>
 
 ---
 
@@ -57,14 +46,9 @@ I spend a lot of time working with Linux, Node.js, Python, APIs, and system work
   <img src="assets/working.gif" alt="Working With" width="700" />
 </p>
 
-```txt
-Languages    :: JavaScript, Python, SQL, TypeScript, C, Go
-Frontend     :: Next.js, HTML, CSS
-Backend      :: Node.js, APIs, Discord.js, Mongoose
-Databases    :: MongoDB, MySQL
-Infra        :: Git, GitHub Actions, Vercel, AWS, Containerization
-Specialized  :: Automation, Computer Vision, OpenCV, MediaPipe
-```
+<p align="left">
+  <img src="assets/working_content.png" alt="Working Content" width="900" />
+</p>
 
 ---
 
@@ -72,16 +56,9 @@ Specialized  :: Automation, Computer Vision, OpenCV, MediaPipe
   <img src="assets/projects.gif" alt="Projects" width="700" />
 </p>
 
-A few things I have built or worked on:
-- **Fabric**: an all-in-one Discord.js bot with unique utility-focused features
-- **Open Gestures**: a virtual input system for major desktop operating systems
-- **Manga-App**: an open-source desktop manga downloader
-- **Project Nebula**: a multipurpose Discord CLI tool
-- **Fabric-API**: an API layer for reusable bot and platform functionality
-
-<br>
-
-More at: **[godkode.xyz](https://godkode.xyz)**
+<p align="left">
+  <img src="assets/projects_content.png" alt="Projects Content" width="800" />
+</p>
 
 ---
 
@@ -89,13 +66,9 @@ More at: **[godkode.xyz](https://godkode.xyz)**
   <img src="assets/philosophy.gif" alt="Philosophy" width="700" />
 </p>
 
-> Build fast. Debug harder. Refine until it feels inevitable.
-
-A few things I optimize for:
-- software that is actually useful
-- interfaces with intent
-- systems that stay understandable under pressure
-- experimentation without losing reliability
+<p align="left">
+  <img src="assets/philosophy_content.png" alt="Philosophy Content" width="700" />
+</p>
 
 ---
 
@@ -103,10 +76,8 @@ A few things I optimize for:
   <img src="assets/contact.gif" alt="Contact" width="700" />
 </p>
 
-If you want to build something interesting, automate something painful, or collaborate on a useful system:
-
-- Portfolio: [godkode.xyz](https://godkode.xyz)
-- Email: [godkode@godkode.xyz](mailto:godkode@godkode.xyz)
-- LinkedIn: [Raghav Bhati](https://www.linkedin.com/in/raghav-bhati-a22349365/)
+<p align="left">
+  <img src="assets/contact_content.png" alt="Contact Content" width="500" />
+</p>
 
 ---
