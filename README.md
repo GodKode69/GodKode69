@@ -4,13 +4,18 @@
   </a>
 </p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="8">
+<table align="center">
   <tr>
     <td><a href="https://discord.gg/users/1150339860725514320"><img src="assets/discord.webp" alt="Discord" height="30" /></a></td>
+    <td></td>
     <td><a href="https://instagram.com/adhuraghav"><img src="assets/instagram.webp" alt="Instagram" height="30" /></a></td>
+    <td></td>
     <td><a href="https://godkode.xyz"><img src="assets/favicon.webp" alt="Portfolio" height="30" /></a></td>
+    <td></td>
     <td><a href="https://open.spotify.com/user/31qqz4epfmpqxwzmmibutb5j47be"><img src="assets/spotify.webp" alt="Spotify" height="30" /></a></td>
+    <td></td>
     <td><a href="mailto:godkode@godkode.xyz"><img src="assets/email.webp" alt="Email" height="30" /></a></td>
+    <td></td>
     <td><a href="https://www.linkedin.com/in/raghav-bhati-a22349365/"><img src="assets/linkedin.webp" alt="LinkedIn" height="30" /></a></td>
   </tr>
 </table>
