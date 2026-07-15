@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <img height="125" style="margin: 0 10px;" src="https://github-stats-extended.vercel.app/api?username=GodKode69&rank_icon=percentile&hide_title=true&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="125" style="margin: 0 10px;" src="https://github-stats-extended.vercel.app/api?username=GodKode69&rank_icon=percentile&hide_title=true&theme=tokyonight&hide_border=true" alt="Stats" />
   <img height="125" style="margin: 0 10px;" src="https://github-stats-extended.vercel.app/api/top-langs?username=GodKode69&layout=compact&hide_title=true&langs_count=6&theme=tokyonight&hide_border=true" alt="Languages" />
   <img height="125" style="margin: 0 10px;" src="https://streak-stats.demolab.com/?user=godkode69&theme=kanagawa-paper&hide_border=true" alt="Streak" />
 </div>
