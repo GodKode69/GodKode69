@@ -20,7 +20,7 @@
 <br>
 
 <div align="center">
-  <img height="125" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api?username=godkode69&show_icons=true&commits_year=2026&theme=dracula&hide_border=true" alt="Stats" />
+  <img height="125" style="margin: 0 10px;" src="https://github-stats-extended.vercel.app/api?username=GodKode69&rank_icon=percentile&hide_title=true&show_icons=true&theme=tokyonight" alt="Stats" />
   <img height="125" style="margin: 0 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godkode69&layout=compact&langs_count=8&card_width=320&theme=dracula&hide_border=true" alt="Languages" />
   <img height="125" style="margin: 0 10px;" src="https://streak-stats.demolab.com/?user=godkode69&theme=kanagawa-paper&hide_border=true" alt="Streak" />
 </div>
